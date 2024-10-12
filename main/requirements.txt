@@ -1,0 +1,8 @@
+numpy==1.23.5
+opencv-python==4.8.0.76
+PyAutoGUI==0.9.54
+mss==9.0.1
+pywin32==307
+torch==2.0.1
+torchaudio==2.3.0
+torchvision==0.15.2
