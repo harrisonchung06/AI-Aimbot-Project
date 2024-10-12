@@ -5,10 +5,13 @@
 
 ## Use Instructions:[^bignote]
 1. Install requirements in requirements.txt 
-2. Install the included YOLOV7 model for player head positions 
+2. Install the included YOLOV7 model 
 3. Run the Free Fire Game on LDPlayer  
 4. Run the included script 
-5. Resize the Free Fire Game window until the center of the aim dot matches the detection window 
+5. Press the down arrow key to stop tracking 
+6. Resize the Free Fire Game window until the center of the aim dot matches the detection window 
+7. Press the up arrow key to begin tracking  
+8. Hover over the detection window and press the "q" key to stop the program 
 
 ## Project Goals: 
 * Track enemy player head positions on screen in real time with an object detection model 
